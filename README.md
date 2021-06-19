@@ -1,5 +1,5 @@
 # DropMail.me-Dokumentation
-##A self made DropMail.me Dokumentation for the Websocket API
+### A self made DropMail.me Dokumentation for the Websocket API
 
 Connent to wss://dropmail.me/websocket
 
@@ -17,6 +17,6 @@ e.g. "I{"to_mail_orig":"stuuvtjy@laste.ml","to_mail":"stuuvtjy@laste.ml","text_s
 
 Limit at 100 per minute, then a captcha must be made.
 
-##Dokumentation for the Rest-API
+### Dokumentation for the Rest-API
 
 https://dropmail.me/api/
