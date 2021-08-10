@@ -20,3 +20,5 @@ Limit at 100 per minute, then a captcha must be made.
 ### Dokumentation for the Rest-API
 
 https://dropmail.me/api/
+
+Java and Kotlin API: https://github.com/Newspicel/DropMail.ME-API
